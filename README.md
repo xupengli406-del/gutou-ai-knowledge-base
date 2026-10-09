@@ -23,3 +23,15 @@
 **二维码有效期：2026 年 10 月 16 日前。**
 
 如果二维码已失效，欢迎在 [Issues](https://github.com/xupengli406-del/gutou-ai-knowledge-base/issues) 留言提醒更新。
+
+## 一起开麦：飞书交流群
+
+**群聊：骨头男（AI版）｜外部交流群**
+
+👉 **[用飞书加入交流群](https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=e24r8d90-b603-4169-a688-b929649b17be)**
+
+企业外的飞书用户也可以通过邀请入口加入，无需属于同一企业，也无需入群审核。需要登录飞书账号。
+
+<img src="assets/feishu-group-qr.png" alt="骨头男（AI版）飞书外部交流群入群二维码，长期有效" width="360">
+
+用飞书扫码，或点击上方链接加入。邀请入口已设为长期有效。
